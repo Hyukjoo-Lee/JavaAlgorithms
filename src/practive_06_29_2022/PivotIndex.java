@@ -6,8 +6,6 @@ package practive_06_29_2022;
  * If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array.
  * Return the leftmost pivot index. If no such index exists, return -1.
  */
-
-
 public class PivotIndex {
 
 	public int pivotIndex(int[] nums) {
